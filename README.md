@@ -17,7 +17,8 @@
 
 ### 1.1 项目流程图
 
-![](D:\Users\huihu\Desktop\2026\damoxing\video\流程图.jpg)
+<img width="1280" height="1280" alt="流程图" src="https://github.com/user-attachments/assets/ce00e803-6f35-4cbc-b038-56659e23cc2a" />
+
 
 ### 1.2 项目结构
 
