@@ -122,7 +122,8 @@ project/
 
 ### 输出展示
 
-![image-20260529144302952](C:\Users\huihu\AppData\Roaming\Typora\typora-user-images\image-20260529144302952.png)
+<img width="1625" height="777" alt="00" src="https://github.com/user-attachments/assets/b6ad84ca-9bcf-477e-bbb5-69c7bfffb42d" />
+
 
 ### 代码
 
